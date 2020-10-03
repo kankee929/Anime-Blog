@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/ryuuk",
+    "prod_uri": "mysql://root:@localhost/ryuuk",
+    "fb_url": "https://facebook.com/Ryuuk",
+    "tw_url": "https://twitter.com/Ryuuk",
+    "gh_url": "https://github.com/Ryuuk",
+    "blog_name": "Ryuuk",
+    "gmail-user": "ankeesingh929@gmail.com",
+    "gmail-password": "shekhu563",
+    "about_text": "This page is for all the fellow Anime Lovers.",
+    "no_of_posts": 4,
+    "login_image": "login.jpg",
+    "admin_user": "Ankit",
+    "admin_password": "Ankee",
+    "upload_location": "C:\\Users\\Ankit Kumar Singh\\PycharmProjects\\pythonProject\\flask-tut\\static"
+  }
+
+
+}
