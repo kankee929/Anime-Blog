@@ -13,8 +13,8 @@
     "about_text": "This page is for all the fellow Anime Lovers.",
     "no_of_posts": 4,
     "login_image": "login.jpg",
-    "admin_user": "Ankit",
-    "admin_password": "Ankee",
+    "admin_user": "admin",
+    "admin_password": "admin",
     "upload_location": "C:\\Users\\Ankit Kumar Singh\\PycharmProjects\\pythonProject\\flask-tut\\static"
   }
 
